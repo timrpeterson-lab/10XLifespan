@@ -1,0 +1,748 @@
+ID,Compounds available to ship,HMDB#
+1, 3-Hydroxyhippuric acid,HMDB02404
+2, 5-Methoxytryptamine,HMDB04095
+3,(+)-Limonene,HMDB04321
+4,(+/-)-Chlorpheniramine,HMDB01944 
+5,"(2E,4E)-2,4-Hexadienoic acid",HMDB29581
+6,(R)-2-Benzylsuccinate,HMDB12127
+7,(S)-(-)-a-Methylbenzlamine,HMDB02654
+8,"1,11-Undecanedicarboxylic acid",HMDB02327
+9,"1,1-Dimethylbiguanide Hydrochloride",HMDB01921 
+10,"1,2,3-trihydroxybenzene",HMDB13674
+11,"1,2-Propanediol ",HMDB01881
+12,"1,3,5-Trimethoxybenzene",HMDB59963
+13,"1,3,7-Trimethyluric acid",HMDB02123
+14,"1,3-Diaminopropane",HMDB00002 
+15,"1,3-dimethyluracil",HMDB02144
+16,"1,3-Dimethyluric acid",HMDB01857
+17,"1,3-Propanediol",HMDB02808
+18,"1,5-Anhydrosorbitol ",HMDB02712
+19,"1,6-Anhydro-beta-D-glucopyranose",HMDB00640 
+20,11a-Hydroxyprogesterone,HMDB00920 
+21,11-Deoxycorticosterone,HMDB00016 
+22,12-Hydroxydodecanoic acid,HMDB02059
+23,16-Dehydroprogesterone,HMDB00995 
+24,17a-Ethynylestradiol,HMDB01926 
+25,17-Hydroxyprogesterone,HMDB00374 
+26,1-Hexadecanol,HMDB03424
+27,"2,2-Dimethylsuccinic acid",HMDB02074
+28,"2,3,4-Trihydroxybenzoate ",HMDB59964
+29,"2,3-Diaminopropionic acid",HMDB02006
+30,"2,3-Dihydroxybenzoic acid",HMDB00397 
+31,"2,4-Diamino-6-hydroxypyrimidine",HMDB02128
+32,"2,4-Diaminobutyric acid",HMDB02362
+33,"2,4-Dichlorophenol",HMDB04811
+34,"2,5-Furandicarboxylic acid",HMDB04812
+35,"2,6-dihydroxybenzoic acid",HMDB13676
+36,"2,6-Dimethoxybenzoic acid",HMDB29273
+37,2-Aminobenzoic acid,HMDB01123
+38,2-Chlorobenzoic acid,HMDB03629
+39,2'-Deoxycytidine,HMDB00014 
+40,2-Deoxyglucose,HMDB03174
+41,2-Deoxyguanosine 5-monophosphate,HMDB01044 
+42,2'-Deoxyuridine,HMDB00012 
+43,2-Ethyl-2-Hydroxybutyric acid,HMDB01975
+44,2-Furoylglycine,HMDB00439 
+45,2-Heptanone,HMDB03671
+46,2-Hydroxy-2-methylbutyric acid,HMDB01987
+47,2-Hydroxy-3-methylbutyric acid,HMDB00407 
+48,2-Hydroxybutyric acid,HMDB00008
+49,2-Hydroxycaproic acid,HMDB01624 
+50,2-Hydroxycinnamic acid,HMDB02641
+51,2-Hydroxyethanesulfonate,HMDB03903
+52,2-Indolecarboxylic acid,HMDB02285
+53,2-Isopropylmalic acid,HMDB00402 
+54,2-Ketobutyric acid,HMDB00005
+55,2-Methyl-3-ketovaleric acid,HMDB00408 
+56,2-Methylacetoacetate,HMDB00310 
+57,2-Methylbutyrylglycine,HMDB00339
+58,2-Methylglutaric acid,HMDB00422 
+59,2-Methylhippuric acid,HMDB11723
+60,2-Octenoic acid,HMDB00392 
+61,2-Oxoarginine,HMDB04225
+62,2-Oxovaleric acid,HMDB01865
+63,2-Phenylaminoadenosine,HMDB01069 
+64,2-Phenylbutyric acid,HMDB00329 
+65,2-Phenylethanol,HMDB33944
+66,2-Phenylglycine,HMDB02210
+67,2-Piperidinone,HMDB11749
+68,2-Pyrrolidinone,HMDB02039
+69,3-(-2-Methoxyphenyl)-propionic acid,HMDB01971
+70,3-(3-Hydroxyphenyl)propanoic acid,HMDB00375
+71,3-(4-Hydroxyphenyl)propionic acid,HMDB02199
+73,3-(alpha-Acetonylbenzyl)-4-hydroxycoumarin,HMDB01935 
+74,"3,3-Dimethylglutaric acid",HMDB02441
+75,"3,4,5-Trimethoxycinnamic acid",HMDB02511
+76,"3,4-Dihydroxybenzaldehyde",HMDB59965
+77,"3,4-Dihydroxybenzeneacetic acid",HMDB01336 
+78,"3,4-Dihydroxyhydrocinnamic acid",HMDB00423 
+79,"3,4-Dihydroxymandelic acid",HMDB01866
+80,"3,4-Dimethoxyphenylacetic acid",HMDB00434 
+81,"3,5-dihydroxybenzoic acid",HMDB13677
+82,"3,5-Diiodo-L-tyrosine",HMDB03474
+83,"3,5-Diiodothyronine ",HMDB00582 
+84,"3,5-Dimethoxyphenol",HMDB59966
+85,"3,7-dimethyluric acid",HMDB01982
+86,3b-Androsterone,HMDB00365 
+87,3b-Hydroxy-5-cholenoic acid,HMDB00308
+88,3-Chlorotyrosine,HMDB01885
+89,3-Cresotinic acid,HMDB02390
+90,3-Furoic acid,HMDB00444 
+91,3-Hexenedioic acid,HMDB00393
+92,3-Hydroxy-4-methoxycinnamic acid,HMDB00955 
+93,3-Hydroxyanthranilic acid,HMDB01476
+94,3-Hydroxy-DL-Kynurenine,HMDB01152
+95,3-Hydroxyisovaleric acid,HMDB00754
+97,3-Hydroxyphenylacetic acid,HMDB00440 
+99,3-Indolebutyric acid,HMDB02096
+100,3-Iodo-L-Tyrosine,HMDB00021 
+101,3-Mercaptopyruvic acid,HMDB01368
+102,3-Methoxybenzenepropanoic acid,HMDB11751
+103,3-Methoxyphenylacetate ,HMDB59969
+104,3-Methoxytyramine,HMDB00022 
+105,3-Methoxytyrosine,HMDB01434
+106,3-Methyl-2-oxopentanoic acid,HMDB00762
+107,3-methyl-2-oxo-Valeric acid,HMDB00491 
+108,3-Methyladenine,HMDB11600
+109,3-Methyladipic acid,HMDB00555 
+110,3-Methylcrotonic acid,HMDB00509 
+111,3-Methylglutaconic acid,HMDB00522
+112,3-Methylhistamine,HMDB01861
+113,3-Methylhistidine,HMDB00479 
+114,3-Methylindole,HMDB00466 
+115,3-Methylphenylacetic acid,HMDB02222
+116,3-Methylxanthine,HMDB01886
+117,3-Nitrotyrosine ,HMDB01904
+118,3-Oxocholic acid,HMDB00502
+119,3-Penten-2-one,HMDB01184
+120,3-Phenoxypropionic acid,HMDB02229
+121,3-Phenylbutyric acid,HMDB01955
+122,3-Pyridylacetic acid,HMDB01538
+123,3-Ureidopropionic acid,HMDB00026 
+124,4-Aminohippuric acid,HMDB01867
+125,4-Aminophenol,HMDB01169
+126,4-Deoxytetronic acid,HMDB00549
+127,4-Ethylbenzoic acid,HMDB02097
+128,4-Ethylphenol ,HMDB29306
+129,4-Guanidinobutanoic acid,HMDB03464
+130,4-heptanone,HMDB04814
+131,4-Hydroxy-3-methoxycinnamic acid,HMDB00537 
+132,4-Hydroxy-3-methylbenzoic acid,HMDB04815
+133,4-Hydroxybenzaldehyde,HMDB11718
+134,4-Hydroxybenzoic acid,HMDB00500 
+135,4-Hydroxycyclohexylcarboxylic acid,HMDB01988
+136,4-Hydroxyhippuric acid,HMDB13678
+137,4-Hydroxyphenyl-2-propionic acid,HMDB41683
+139,4-Methoxycinnamic acid,HMDB02040
+140,4-Methoxyphenylacetic acid,HMDB02072
+141,4-Methylcatechol,HMDB00873 
+142,4-Nitrophenol,HMDB01232
+143,4-Nitrophenyl stearate,HMDB02517
+144,4-Phenylbutyric acid,HMDB00543
+145,"5a-Androstane-3,17-dione",HMDB00899 
+146,5-Aminopentanoic acid,HMDB03355
+147,5b-Cholestanol,HMDB01569 
+148,5-Hydroxy-DL-lysine hydrochloride,HMDB00450 
+149,5-Hydroxymethyl-2-furancarboxaldehyde,HMDB34355
+150,5-Hydroxymethyluracil,HMDB00469 
+151,5-Hydroxytryptophan,HMDB00504
+152,5-L-Hydroxytryptophan,HMDB00472 
+153,5-Methoxy-2-hydroxybenzoic acid,HMDB01868
+154,5-Methoxysalicylic acid,HMDB01868 
+155,5-Methoxytryptophan,HMDB02339
+156,5-Methylcytidine,HMDB00982 
+157,5-Phenylvaleric acid,HMDB02043
+158,6-hydroxynicotinic acid,HMDB02658
+159,6-Phosphogluconic acid,HMDB01316 
+160,7a-Hydroxy-3-oxo-5b-cholanoic acid,HMDB00503
+161,7-Dehydrocholesterol,HMDB00032 
+162,7-Methylguanine,HMDB00897
+163,7-Methylguanosine,HMDB01107 
+164,9-methyluric acid,HMDB01973
+165,a-Aminobutyric acid,HMDB00452 
+166,Acesulfame,HMDB33585
+167,Acetaminophen ,HMDB01859
+168,Acetylcholine,HMDB00895 
+169,Acetylcysteine,HMDB01890 
+170,Acetylglycine,HMDB00532 
+171,Acetyllysine,HMDB00446 
+172,Acetylphenylalanine,HMDB00512 
+173,Acetylphosphate,HMDB01494
+174,Aconitic acid,HMDB00461 
+175,Acrylamide,HMDB04296
+176,Adenosine,HMDB00050 
+177,"Adenosine 2',3'-cyclic phosphate",HMDB11616
+178,Adenosine monophosphate,HMDB00045 
+179,Adenosine Triphosphate,HMDB00538 
+180,Adipic acid,HMDB00448 
+181,Adonitol,HMDB00508 
+182,ADP,HMDB01341
+183,a-Glycerophosphorylcholine,HMDB00049 
+184,Agmatine,HMDB01432
+185,a-Ketoisovaleric acid,HMDB00019
+186,a-Linolenic acid,HMDB01388
+187,Allantoic acid ,HMDB01209
+188,Allantoin,HMDB00462 
+189,Allocholic acid,HMDB00505
+190,Alloisoleucine,HMDB00557 
+191,Allose ,HMDB01151
+192,Alloxan,HMDB02818
+193,alpha-D-Glucose,HMDB03345
+194,Alpha-N-Phenylacetyl-L-glutamine,HMDB06344
+195,Aminoadipic acid,HMDB00510 
+196,Aminolevulinic acid,HMDB01149
+197,Aminopterin,HMDB01833 
+198,Androstanediol,HMDB00493
+199,Androstenedione,HMDB00053 
+200,Androsterone,HMDB00031 
+201,Arachidic acid,HMDB02212
+202,Arachidyl alcohol,HMDB11619
+203,Arginine,HMDB00517 
+204,Ascorbic acid,HMDB00044 
+205,Aspartame,HMDB01894
+206,Aspartyl-lysine,HMDB04987
+208,Aspirin,HMDB01879
+209,Atenolol,HMDB01924 
+210,Atrolactic acid,HMDB00475 
+211,Azelaic acid,HMDB00784 
+212,B-Alanine,HMDB00056 
+213,b-Aminoisobutyric acid,HMDB00485
+214,b-Carotene,HMDB00561
+215,Behenic acid,HMDB00944 
+216,Benzaldehyde,HMDB06115
+217,Benzamide,HMDB04461
+218,Benzocaine,HMDB04992
+219,Benzoic acid,HMDB01870
+220,Benzyl alcohol,HMDB03119
+221,Berberine,HMDB03409
+222,Beta-D-Galactose,HMDB03449
+223,Beta-D-Glucose,HMDB00516
+224,Betaine,HMDB00043 
+225,Bilirubin,HMDB00054 
+226,Biotin,HMDB00030 
+227,Brompheniramine,HMDB01941 
+228,Butyric acid,HMDB00039 
+229,Cadaverine,HMDB02322
+230,Caffeic acid,HMDB01964
+231,Caffeine,HMDB01847
+232,Canrenone,HMDB03033
+233,Capric acid,HMDB00511 
+234,Caproic acid,HMDB00535 
+235,Caprylic acid,HMDB00482 
+236,Carnitine,HMDB00062 
+237,Carnosine,HMDB00033 
+238,Cellobiose,HMDB00055 
+239,Chalcone,HMDB03066
+240,Chitin,HMDB03362
+241,Chitosan,HMDB03404
+242,Chloric acid,HMDB02036
+243,Chloroacetic acid,HMDB31331
+244,Chlorogenic acid,HMDB03164
+245,Cholestanol,HMDB00908 
+246,Cholestenone,HMDB00921
+247,Cholesterol,HMDB00067 
+248,Cholesteryl linoleate,HMDB00610 
+249,Cholesteryl linolenic acid,HMDB00604
+250,Cholesteryl oleate ,HMDB00918 
+251,Cholesteryl palmitate,HMDB00885 
+252,Cholic acid,HMDB00619 
+253,Choline,HMDB00097 
+254,Cinnamic acid,HMDB00567
+255,Cinnamic Aldehyde,HMDB03441
+256,"Cis,cis-muconic acid",HMDB06331
+257,cis-Aconitic acid,HMDB00072 
+258,Citicoline ,HMDB01413 
+259,Citraconic acid,HMDB00634 
+260,Citric acid,HMDB00094 
+261,Clotrimazole ,HMDB01922 
+262,Coproporphyrin I,HMDB00643
+263,Coprostanone ,HMDB00871 
+264,Cortexolone,HMDB00015
+265,Corticosterone,HMDB01547 
+266,Cortisol,HMDB00063 
+267,Cortisone,HMDB02802
+268,Cotinine,HMDB01046 
+269,Coumarin ,HMDB01218 
+270,Creatine,HMDB00064 
+271,Creatine phosphate ,HMDB01511
+272,Creatinine,HMDB00562 
+273,Cyanate,HMDB02078
+274,Cyclic AMP,HMDB00058 
+275,Cyclohexanone,HMDB03315
+276,Cysteamine,HMDB02991
+277,Cysteine,HMDB00574 
+278,Cytidine monophosphate,HMDB00095 
+279,Cytidine triphosphate,HMDB00082
+280,Cytosine,HMDB00630 
+281,D-(-)-3-Phosphoglyceric acid,HMDB00807
+282,D-2-Aminobutyric acid,HMDB00650 
+283,D-Alanine,HMDB01310
+284,D-Aspartic acid ,HMDB06483
+285,dCMP,HMDB01202
+286,Decanal,HMDB11623
+287,Decyl alcohol,HMDB11624
+288,Dehydroascorbic acid,HMDB01264
+289,Dehydroepiandrosterone,HMDB00077 
+290,Deoxyadenosine,HMDB00101 
+292,Deoxyadenosine monophosphate ,HMDB00905 
+293,Deoxycholic acid,HMDB00626 
+294,Deoxycholic acid glycine conjugate,HMDB00631 
+295,Deoxyguanosine,HMDB00085 
+296,Deoxyinosine,HMDB00071 
+297,Deuteroprophyrin IX dimethyl ester,HMDB00579
+298,Dextromethorphan ,HMDB01920 
+299,"D-Fructose-6-phosphate,disodium",HMDB00124
+300,"D-glucurono-6,3-lactone",HMDB06355
+301,D-Glutamic acid,HMDB03339
+302,D-Glutamine,HMDB03423
+303,Diaminopimelic Acid,HMDB01370 
+304,Diethanolamine,HMDB04437
+305,Diethylthiophosphate,HMDB01460
+306,Diglycolic Acid,HMDB02317
+307,Digoxin Crystalline,HMDB01917 
+308,Dihydrothymine,HMDB00079 
+309,Dihydrouracil,HMDB00076 
+310,Dihydroxyacetone,HMDB01882
+311,Dihydroxyphenylalanine,HMDB00609
+312,Diiodothyronine,HMDB00627 
+313,Diltiazem,HMDB02873
+314,Dimethyl sulfone,HMDB04983
+315,Dimethylglycine,HMDB00092
+316,Dimethylmalonic acid,HMDB02001
+317,Diphenhydramine Hydrochloride,HMDB01927 
+318,DL-2-Amino-n-butyric acid,HMDB00581 
+319,DL-2-Aminooctanoic acid,HMDB00991 
+320,D-Lactic acid ,HMDB01311 
+321,DL-Adrenaline,HMDB00615 
+322,DL-a-Glycerophosphate,HMDB00126 
+323,DL-a-Lipoamide,HMDB00962
+324,DL-Arabinose,HMDB00646 
+325,DL-Beta-Leucine,HMDB03640
+326,DL-Glyceraldehyde,HMDB01051 
+327,DL-Homocystine,HMDB00575 
+328,DL-O-Phosphoserine,HMDB01721 
+329,DL-Phenylalanine,HMDB00612 
+330,DL-Pipecolic acid,HMDB00070 
+331,DL-Serine,HMDB00589 
+332,DL-Valine,HMDB00571 
+333,D-Lysine,HMDB03405
+334,D-Melibiose,HMDB00048 
+335,Dodecanedioic acid,HMDB00623 
+336,Dodecanoic acid,HMDB00638 
+337,Dodecanol,HMDB11626
+338,Dopamine,HMDB00073 
+339,Doxylamine,HMDB01936 
+340,D-Phenyllactic acid,HMDB00563
+341,D-Ribose 5-phosphate ,HMDB01548
+342,D-Threitol,HMDB04136
+343,D-Xylose,HMDB00098 
+344,D-Xylulose,HMDB01644 
+345,e-Aminocaproic acid,HMDB01901
+346,Elaidic acid,HMDB00573 
+347,Ellagic acid,HMDB02899
+348,Epicatechin,HMDB01871
+349,epi-inositol,HMDB06088
+350,Epinephrine,HMDB00068 
+351,Ergocalciferol,HMDB00900
+352,Ergosterol,HMDB00878 
+353,Erucic acid,HMDB02068
+354,Erythritol,HMDB02994
+355,Estradiol,HMDB00151 
+356,Estriol,HMDB00153 
+357,Estrone,HMDB00145 
+358,Ethanolamine,HMDB00149 
+359,Ethyl lactate,HMDB40735
+360,Ethyl Malonate,HMDB00576 
+361,Ethylmalonic acid,HMDB00622 
+362,Ethylmethylacetic acid,HMDB02176
+363,Famotidine,HMDB01919 
+364,FAPy-adenine,HMDB04816
+365,Flavin adenine dinucleotide,HMDB01248 
+366,Flavin mononucleotide,HMDB01520 
+367,Flavone,HMDB03075
+368,Folic acid,HMDB00121 
+369,Formamide ,HMDB01536
+370,Fructose,HMDB00660 
+371,"Fructose-1,6-diphosphate",HMDB01058 
+372,Fumaric acid,HMDB00134 
+373,Furosemide,HMDB01933
+374,Galactan,HMDB04162
+375,Galactaric acid,HMDB00639 
+376,Galactitol,HMDB00107 
+377,Galactonic acid,HMDB00565
+378,Galactose,HMDB00143 
+379,Galacturonic acid,HMDB02545
+380,Gallic acid,HMDB05807
+381,gama-caprolactone,HMDB03843
+382,gamma-Aminobutyric acid,HMDB00112 
+383,Gentisic acid,HMDB00152 
+384,Geraniol,HMDB05812
+385,Glucaric acid,HMDB00663 
+386,Gluconic acid,HMDB00625
+387,"Glucono 1,5-lactone",HMDB00150 
+388,Glucosamine,HMDB01514 
+389,Glucosamine 6-phosphate,HMDB01254
+390,Glucose,HMDB00122 
+391,Glucose 1-phosphate,HMDB01586
+392,Glucose-6-phosphate,HMDB01401 
+393,Glucuronic acid,HMDB00127 
+394,Glutaconic acid,HMDB00620 
+395,Glutamic Acid,HMDB00148 
+396,Glutamine,HMDB00641 
+397,Glutaric acid,HMDB00661 
+398,Glutathione,HMDB00125 
+399,Glyceric acid,HMDB00139 
+400,Glycerol,HMDB00131
+401,Glycerol tripalmitate,HMDB05356
+402,Glycerophosphocholine,HMDB00086
+403,Glycine,HMDB00123 
+404,Glycocholic acid,HMDB00138 
+405,Glycogen,HMDB00757 
+406,Glycolic acid,HMDB00115 
+407,Glycyl-glycine,HMDB11733
+408,Glycyl-L-leucine,HMDB00759 
+409,Glycyl-L-proline,HMDB00721
+410,Glycyrrhetinic acid ,HMDB11628
+411,Glyoxylic acid,HMDB00119 
+412,Guaiacol ,HMDB01398
+413,Guaiacol Glyceryl Ether,HMDB01931 
+414,Guanidine,HMDB01842 
+415,Guanidoacetic acid,HMDB00128 
+416,Guanine,HMDB00132 
+417,Guanosine 5'-diphosphate,HMDB01201 
+419,Guanosine 5'-monophosphate,HMDB01397
+420,Gulonic acid,HMDB03290
+421,Harmaline ,HMDB03188 
+422,Hematoporphyrin,HMDB00668 
+423,Hemin,HMDB00887 
+424,Heneicosanoic acid,HMDB02345
+425,Heptanoic acid,HMDB00666 
+426,Hesperidin ,HMDB03265 
+427,Hexadecanedioic acid,HMDB00672
+428,Hexanal,HMDB05994
+429,Hexanolactone,HMDB00453
+430,Hippuric acid,HMDB00714 
+431,Histamine,HMDB00870 
+432,Homocitrulline,HMDB00679
+433,Homocysteine,HMDB00742 
+434,Homogentisic acid,HMDB00130 
+435,Homovanillic acid,HMDB00118
+436,Hydrochlorothiazide,HMDB01928 
+437,Hydrocinnamic acid,HMDB00764 
+438,Hydroxyisobutyric acid,HMDB00729 
+439,Hydroxyisocaproic acid,HMDB00746 
+440,Hydroxylamine,HMDB03338
+441,Hydroxyoctanoic acid,HMDB00711 
+442,Hydroxyphenylacetic acid,HMDB00669 
+443,Hydroxypropionic acid,HMDB00700
+444,Hyodeoxycholic acid,HMDB00733 
+445,Hypotaurine,HMDB00965 
+446,Hypoxanthine,HMDB00157 
+447,Ibuprofen,HMDB01925
+448,Imidazole,HMDB01525
+449,Imidazoleacetic acid,HMDB02024
+450,Imipramine,HMDB01848
+451,Indole,HMDB00738 
+452,Indole-3-carbinol,HMDB05785
+453,Indole-3-carboxylic acid,HMDB03320
+454,Indole-3-ethanol,HMDB03447
+455,Indoleacetic acid,HMDB00197 
+456,Indoleacrylic acid,HMDB00734
+457,Indolepyruvic acid,HMDB60484
+458,Indoxyl,HMDB04094
+459,Indoxyl sulfate,HMDB00682 
+460,Inosine,HMDB00195 
+461,Inosine triphosphate,HMDB00189
+462,Inosinic acid,HMDB00175
+463,Isobutyric acid,HMDB01873
+464,Isobutyrylglycine,HMDB00730
+465,Isocaproic acid,HMDB00689 
+466,Isocitric acid,HMDB00193
+467,Isoeugenol,HMDB05802
+468,Isomaltose,HMDB02923
+469,Isopentanol,HMDB06007
+470,Isopropyl ethyl ketone,HMDB05846
+471,Iso-Valeraldehyde,HMDB06478
+472,Isovaleric acid,HMDB00718 
+473,Isovanillic acid,HMDB60003
+474,Isoxanthopterin,HMDB00704 
+475,Itaconic acid,HMDB02092
+476,Kynurenic acid,HMDB00715 
+477,Kynurenine,HMDB00684 
+478,L(-) -Nicotine,HMDB01934 
+479,L-3-Phenyllactic acid,HMDB00748
+480,L-Acetylcarnitine,HMDB00201 
+481,Lactose,HMDB00186 
+482,Lactulose,HMDB00740  
+483,L-Alanine,HMDB00161 
+484,L-Allothreonine,HMDB04041
+485,L-Arabinose,HMDB00487 
+486,L-Arabitol,HMDB01851 
+487,L-Asparagine,HMDB00168 
+488,L-Aspartic acid,HMDB00191 
+489,Lathosterol ,HMDB01170 
+490,L-Citrulline,HMDB00904 
+491,L-Cysteine,HMDB00192
+492,L-Cystine,HMDB00192 
+493,L-Dopa,HMDB00181
+494,Leucine,HMDB00687 
+495,Leucinic acid,HMDB00665
+496,Levofloxacin,HMDB01929 
+497,Levomenthol,HMDB03352
+498,Levulinic acid,HMDB00720 
+499,L-Fucose,HMDB00174 
+500,L-Histidine,HMDB00177 
+501,L-Homocyseic acid,HMDB02205
+502,L-Homoserine,HMDB00719 
+503,Linoleic acid,HMDB00673 
+504,Lipoic acid,HMDB01451
+505,L-Isoleucine,HMDB00172 
+506,Lithocholic acid,HMDB00761 
+507,L-Kynurenine,HMDB00183 
+508,L-Lactic acid,HMDB00190 
+509,L-Lysine,HMDB00182 
+510,L-Malic acid,HMDB00156 
+511,L-Norleucine,HMDB01645 
+512,Loperamide,HMDB04999
+513,Loratadine,HMDB05000
+514,L-Ornithine,HMDB04984
+515,L-Phenylalanine,HMDB00159 
+516,L-Pipecollinic acid,HMDB00716
+517,L-Proline,HMDB00162 
+518,L-Serine,HMDB00187 
+519,L-Sorbose,HMDB01266
+520,L-Threonine,HMDB00167 
+521,L-Thyroxine,HMDB01918 
+522,L-Tyrosine,HMDB00158 
+523,Maleic acid,HMDB00176 
+524,Malic acid,HMDB00744 
+525,Malonic acid,HMDB00691 
+526,Maltitol,HMDB02928
+527,Maltose,HMDB00163 
+528,Maltotriose,HMDB01262
+529,m-Aminobenzoic acid,HMDB01891 
+530,Mandelic acid,HMDB00703 
+531,Mannitol,HMDB00765 
+532,m-Chlorobenzoic acid,HMDB01544
+533,m-Coumaric acid,HMDB01713 
+534,Mesaconic acid,HMDB00749
+535,Methionine sulfoxide,HMDB02005
+536,methyl disulfide,HMDB05879
+537,Methylcysteine,HMDB02108
+538,Methylglutaric acid,HMDB00752
+539,Methylguanidine,HMDB01522 
+540,Methylhippuric acid,HMDB00859
+541,Methylmalonic acid,HMDB00202 
+542,Methyloxovaleric acid,HMDB00695 
+543,Methylsuccinic acid,HMDB01844
+544,Metoprolol,HMDB01932 
+545,Miconazole ,HMDB01108 
+546,Monomethyl glutaric acid,HMDB00858 
+547,Myo-Inositol,HMDB00211 
+548,Myristic acid,HMDB00806 
+549,"N,N-Dimethylaniline",HMDB01020
+550,"N,N-Dimethylglycine",HMDB00092
+551,N1-Methyl-2-pyridone-5-carboxamide,HMDB04193
+552,N6-Acetyl-L-lysine,HMDB00206 
+553,N-Acetputrescine hydrochloride,HMDB02064
+554,N-Acetylaspartic acid,HMDB00812 
+555,N-Acetyl-b-D-glucosamine,HMDB00803 
+556,N-Acetyl-D-glucosamine,HMDB00215
+557,N-acetylgalactosamine,HMDB00212 
+558,N-Acetylglutamic acid,HMDB01138
+559,N-Acetylglutamine,HMDB06029
+560,N-Acetyl-L-alanine,HMDB00766 
+561,N-Acetyl-L-methionine,HMDB11745
+562,N-Acetyl-L-tyrosine ethyl ester ,HMDB00974 
+563,N-Acetylmannosamine,HMDB01129
+564,N-acetylneuraminic acid,HMDB00230 
+565,N-Acetylserotonin ,HMDB01238 
+566,N-Acetyltyrosine,HMDB00866 
+567,NAD,HMDB00902 
+568,NADH,HMDB01487
+569,Naproxen,HMDB01923 
+570,Naringenin,HMDB02670
+571,Naringin,HMDB02927
+572,N-Carbamoyl-DL-aspartic acid,HMDB00828 
+573,Nervonic acid,HMDB02368
+574,N-formyl-Lmethionine,HMDB01015
+575,Niacinamide,HMDB01406 
+576,Nicotinamide-adenine dinucleotide phosphate,HMDB00217 
+577,Nicotinuric acid,HMDB03269
+578,Nimbosterol,HMDB00852 
+579,N-isovaleroylglycine,HMDB00678
+580,N-Methyl-a-aminoisobutyric acid,HMDB02141
+581,N-Methyl-D-aspartic acid,HMDB02393
+582,N-Methylnicotinamide,HMDB03152
+583,Nonadecanoic acid,HMDB00772 
+584,Nonanoic acid,HMDB00847 
+585,Norepinephrine,HMDB00216 
+586,Normetanephrine,HMDB00819 
+587,Norspermidine,HMDB11634
+588,Nutriacholic acid,HMDB00467
+589,o-Cresol ,HMDB02055
+590,Octacosanoic acid,HMDB02348
+591,Octadecanedioic acid ,HMDB00782
+592,Octadecanol,HMDB02350
+593,Octaldehyde,HMDB01140 
+594,Oleanolic acid,HMDB02364
+595,Oleic acid,HMDB00207 
+596,Omeprazole ,HMDB01913 
+597,O-Phosphoethanolamine,HMDB00224 
+598,Ornithine,HMDB00214 
+599,Orotic acid,HMDB00226 
+600,Oxalacetic acid,HMDB00223 
+601,Oxalic acid,HMDB02329
+602,Oxidized glutathione,HMDB03337
+603,Oxoglutaric acid,HMDB00208 
+604,Oxypurinol,HMDB00786 
+605,Palmitic acid,HMDB00220 
+606,p-Aminobenzoic acid,HMDB01392 
+607,p-Anisic acid,HMDB01101
+608,Pantothenic acid,HMDB00210 
+609,Parahydroxyphenylacetic acid,HMDB00020 
+610,Pectin,HMDB03402
+611,pentacoasanoic acid,HMDB02361
+612,Pentadecanoic acid,HMDB00826 
+613,Perillic acid,HMDB04586
+614,Perillyl alcohol,HMDB03634
+615,Phenol,HMDB00228
+616,Phenylacetaldehyde,HMDB06236
+617,Phenylacetic acid,HMDB00209 
+618,Phenylacetylglycine,HMDB00821
+619,Phenylephrine,HMDB02182
+620,Phenylethanolamine,HMDB01065
+621,Phenylglyoxylic acid,HMDB01587
+622,Phenyllactic acid,HMDB00779 
+623,Phenylpropanolamine,HMDB01942 
+624,Phenylpropiolic acid,HMDB02359
+625,Phenylpyruvic acid,HMDB00205 
+626,Sodium Phosphate,HMDB01429
+627,Phosphonoacetate,HMDB04110
+628,Phosphorylcholine,HMDB00284
+629,Phosphoserine,HMDB00272 
+630,Phthalic acid,HMDB02107
+631,p-Hydroxymandelic acid,HMDB00822
+632,Phytanic acid,HMDB00801 
+633,Picolinic acid,HMDB02243
+634,Pimelic acid,HMDB00857 
+635,Pregnenolone,HMDB00253 
+636,Progesterone,HMDB01830 
+637,Propionic acid,HMDB00237 
+638,Propranolol,HMDB01849
+639,Protocatechuic acid,HMDB01856
+640,Pterin,HMDB00802 
+641,Purine,HMDB01366 
+642,Putrescine,HMDB01414 
+643,Pyridine,HMDB00926 
+644,Pyridoxal,HMDB01545 
+645,Pyridoxal 5-phosphate,HMDB01491 
+646,Pyridoxamine,HMDB01431 
+647,Pyridoxine,HMDB00239 
+648,Pyrimidine,HMDB03361
+649,Pyrocatechol,HMDB00957 
+650,Pyromucic Acid,HMDB00617 
+651,Pyrrole-2-carboxylic acid,HMDB04230
+652,Pyrrolidonecarboxylic acid,HMDB00805 
+653,Quercetin,HMDB05794
+654,Quinaldic acid,HMDB00842
+655,Quinolinic acid,HMDB00232 
+656,Raffinose,HMDB03213
+657,Ranitidine Hcl,HMDB01930 
+658,Retinal,HMDB01358
+659,Rhamnose,HMDB00849
+660,Riboflavin,HMDB00244 
+661,Ribose,HMDB00283 
+662,Ribothymidine,HMDB00884
+663,Rutin,HMDB03249
+664,Salicin,HMDB03546
+665,Salicylic acid,HMDB01895
+666,Sarcosine,HMDB00271 
+667,Scopolamine ,HMDB03573 
+668,Sebacic acid,HMDB00792 
+669,Sedoheptulose,HMDB03219
+670,Sepiapterin,HMDB00238
+671,Serotonin,HMDB00259
+672,Shikimic acid,HMDB03070
+673,Sialyllactose,HMDB00825
+674,Sinapic acid,HMDB32616
+675,Sodium Bisulfite,HMDB01033
+676,Sodium Triphosphate,HMDB03379
+677,Sorbitol,HMDB00247 
+678,Spermidine,HMDB01257
+679,Spermine,HMDB01256
+680,Sphingosine,HMDB00252 
+681,Squalene,HMDB00256
+682,Stachyose,HMDB03553
+683,Stearic acid,HMDB00827 
+684,Stigmasterol,HMDB00937 
+685,Suberic acid,HMDB00893 
+686,Succinic acid,HMDB00254 
+687,Succinic anhydride,HMDB32523
+688,Succinylacetone,HMDB00635 
+689,Sucrose,HMDB00258 
+690,Sulfolithocholic acid,HMDB00907
+691,Sumiki's acid,HMDB02432
+692,Syringic acid,HMDB02085
+693,Tartaric acid,HMDB00956 
+694,Taurine,HMDB00251 
+695,Taurocholic acid,HMDB00036
+696,Taurodeoxycholic acid,HMDB00896
+697,Terephthalic acid,HMDB02428
+698,Tetracosanoic acid,HMDB02003
+699,Tetradecanedioic acid,HMDB00872 
+700,Tetradecanol,HMDB11638
+701,Tetradecylamine,HMDB03171
+702,Tetrahydrofolic acid,HMDB01846
+703,Theophylline,HMDB01889
+704,Thiamine,HMDB00235 
+705,Thiamine pyrophosphate,HMDB01372
+706,Thiocyanate,HMDB01453
+707,Thiosulfate,HMDB00257
+708,threo-Isocitric acid,HMDB01874
+709,Threonic acid,HMDB00943
+710,Thymine,HMDB00262 
+711,Thymol,HMDB01878
+712,Tiglic acid,HMDB01470 
+713,Tocopherol,HMDB01492 
+714,Tolnaftate ,HMDB05005 
+715,trans-4-Hydroxy-3-methoxycinnamic acid,HMDB00954 
+716,trans-Aconitic acid,HMDB00958
+717,trans-Cinnamic acid,HMDB00930 
+718,trans-Glutaconic acid,HMDB01657 
+719,Traumatic acid,HMDB00933
+720,Trehalose,HMDB00975
+721,Triamterene,HMDB01940 
+722,Tricosanoic acid,HMDB01160 
+723,Tridecanoic acid,HMDB00910 
+724,Triethylamine,HMDB32539
+725,Trigonelline,HMDB00875
+726,Trimethylamine,HMDB00906 
+727,Trimethylamine Oxide,HMDB00925 
+728,Tryptamine,HMDB00303 
+729,Tryptophan,HMDB00929 
+730,Turanose ,HMDB11740
+731,Tyramine,HMDB00306 
+732,Undecanedioic acid,HMDB00888 
+733,Undecanoic acid,HMDB00947 
+734,Uracil,HMDB00300 
+735,Urea,HMDB00294 
+736,Uric acid,HMDB00289 
+737,Uridine,HMDB00296 
+738,Uridine 5'-monophosphate,HMDB00288
+739,Urocanic acid,HMDB00301 
+740,Ursodeoxycholic acid,HMDB00946 
+741,Vaccenic acid,HMDB03231
+742,Valeric acid,HMDB00892 
+743,Valproic acid,HMDB01877
+744,Vanillin,HMDB12308
+745,Vanillylmandelic acid,HMDB00291 
+746,Verapramil,HMDB01850
+747,Vitamin A,HMDB00305 
+748,Vitamin D3,HMDB00876 
+749,Vitamin Ea,HMDB01893
+750,Vitamin K3,HMDB01892
+751,Xanthine,HMDB00292 
+752,Xanthosine,HMDB00299 
+753,Xylitol,HMDB02917
+754,y-Terpinene,HMDB05806
