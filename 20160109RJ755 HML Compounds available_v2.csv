@@ -1,0 +1,1055 @@
+ID,Compounds available to ship,HMDB#,CID
+1, 3-Hydroxyhippuric acid,HMDB02404,450268
+2, 5-Methoxytryptamine,HMDB04095,1833
+3,(+)-Limonene,HMDB04321,440917
+4,(+/-)-Chlorpheniramine,HMDB01944 ,"Status: 404
+Code: PUGREST.NotFound
+Message: No CID found
+Detail: No CID found that matches the given name"
+5,"(2E,4E)-2,4-Hexadienoic acid",HMDB29581,643460
+6,(R)-2-Benzylsuccinate,HMDB12127,"444797
+6944015"
+7,(S)-(-)-a-Methylbenzlamine,HMDB02654,"Status: 404
+Code: PUGREST.NotFound
+Message: No CID found
+Detail: No CID found that matches the given name"
+8,"1,11-Undecanedicarboxylic acid",HMDB02327,10458
+9,"1,1-Dimethylbiguanide Hydrochloride",HMDB01921 ,14219
+10,"1,2,3-trihydroxybenzene",HMDB13674,1057
+11,"1,2-Propanediol ",HMDB01881,1030
+12,"1,3,5-Trimethoxybenzene",HMDB59963,69301
+13,"1,3,7-Trimethyluric acid",HMDB02123,79437
+14,"1,3-Diaminopropane",HMDB00002 ,428
+15,"1,3-dimethyluracil",HMDB02144,70122
+16,"1,3-Dimethyluric acid",HMDB01857,70346
+17,"1,3-Propanediol",HMDB02808,10442
+18,"1,5-Anhydrosorbitol ",HMDB02712,64960
+19,"1,6-Anhydro-beta-D-glucopyranose",HMDB00640 ,2724705
+20,11a-Hydroxyprogesterone,HMDB00920 ,440105
+21,11-Deoxycorticosterone,HMDB00016 ,6166
+22,12-Hydroxydodecanoic acid,HMDB02059,79034
+23,16-Dehydroprogesterone,HMDB00995 ,101964
+24,17a-Ethynylestradiol,HMDB01926 ,5991
+25,17-Hydroxyprogesterone,HMDB00374 ,6238
+26,1-Hexadecanol,HMDB03424,2682
+27,"2,2-Dimethylsuccinic acid",HMDB02074,11701
+28,"2,3,4-Trihydroxybenzoate ",HMDB59964,11874
+29,"2,3-Diaminopropionic acid",HMDB02006,364
+30,"2,3-Dihydroxybenzoic acid",HMDB00397 ,19
+31,"2,4-Diamino-6-hydroxypyrimidine",HMDB02128,2944
+32,"2,4-Diaminobutyric acid",HMDB02362,470
+33,"2,4-Dichlorophenol",HMDB04811,8449
+34,"2,5-Furandicarboxylic acid",HMDB04812,76720
+35,"2,6-dihydroxybenzoic acid",HMDB13676,9338
+36,"2,6-Dimethoxybenzoic acid",HMDB29273,15109
+37,2-Aminobenzoic acid,HMDB01123,227
+38,2-Chlorobenzoic acid,HMDB03629,8374
+39,2'-Deoxycytidine,HMDB00014 ,13711
+40,2-Deoxyglucose,HMDB03174,"Status: 404
+Code: PUGREST.NotFound
+Message: No CID found
+Detail: No CID found that matches the given name"
+41,2-Deoxyguanosine 5-monophosphate,HMDB01044 ,"Status: 404
+Code: PUGREST.NotFound
+Message: No CID found
+Detail: No CID found that matches the given name"
+42,2'-Deoxyuridine,HMDB00012 ,13712
+43,2-Ethyl-2-Hydroxybutyric acid,HMDB01975,77199
+44,2-Furoylglycine,HMDB00439 ,21863
+45,2-Heptanone,HMDB03671,8051
+46,2-Hydroxy-2-methylbutyric acid,HMDB01987,95433
+47,2-Hydroxy-3-methylbutyric acid,HMDB00407 ,99823
+48,2-Hydroxybutyric acid,HMDB00008,11266
+49,2-Hydroxycaproic acid,HMDB01624 ,99824
+50,2-Hydroxycinnamic acid,HMDB02641,637540
+51,2-Hydroxyethanesulfonate,HMDB03903,"7866
+3955599"
+52,2-Indolecarboxylic acid,HMDB02285,72899
+53,2-Isopropylmalic acid,HMDB00402 ,77
+54,2-Ketobutyric acid,HMDB00005,58
+55,2-Methyl-3-ketovaleric acid,HMDB00408 ,189028
+56,2-Methylacetoacetate,HMDB00310 ,11966223
+57,2-Methylbutyrylglycine,HMDB00339,193872
+58,2-Methylglutaric acid,HMDB00422 ,12046
+59,2-Methylhippuric acid,HMDB11723,91637
+60,2-Octenoic acid,HMDB00392 ,"5282714
+73850
+5282713"
+61,2-Oxoarginine,HMDB04225,558
+62,2-Oxovaleric acid,HMDB01865,74563
+63,2-Phenylaminoadenosine,HMDB01069 ,"6917803
+1585
+11957666
+122170
+12997926
+118705496"
+64,2-Phenylbutyric acid,HMDB00329 ,7012
+65,2-Phenylethanol,HMDB33944,6054
+66,2-Phenylglycine,HMDB02210,3866
+67,2-Piperidinone,HMDB11749,12665
+68,2-Pyrrolidinone,HMDB02039,12025
+69,3-(-2-Methoxyphenyl)-propionic acid,HMDB01971,"Status: 404
+Code: PUGREST.NotFound
+Message: No CID found
+Detail: No CID found that matches the given name"
+70,3-(3-Hydroxyphenyl)propanoic acid,HMDB00375,91
+71,3-(4-Hydroxyphenyl)propionic acid,HMDB02199,10394
+73,3-(alpha-Acetonylbenzyl)-4-hydroxycoumarin,HMDB01935 ,54678486
+74,"3,3-Dimethylglutaric acid",HMDB02441,20984
+75,"3,4,5-Trimethoxycinnamic acid",HMDB02511,735755
+76,"3,4-Dihydroxybenzaldehyde",HMDB59965,8768
+77,"3,4-Dihydroxybenzeneacetic acid",HMDB01336 ,547
+78,"3,4-Dihydroxyhydrocinnamic acid",HMDB00423 ,348154
+79,"3,4-Dihydroxymandelic acid",HMDB01866,85782
+80,"3,4-Dimethoxyphenylacetic acid",HMDB00434 ,7139
+81,"3,5-dihydroxybenzoic acid",HMDB13677,7424
+82,"3,5-Diiodo-L-tyrosine",HMDB03474,9305
+83,"3,5-Diiodothyronine ",HMDB00582 ,123675
+84,"3,5-Dimethoxyphenol",HMDB59966,10383
+85,"3,7-dimethyluric acid",HMDB01982,83126
+86,3b-Androsterone,HMDB00365 ,"441302
+11055399"
+87,3b-Hydroxy-5-cholenoic acid,HMDB00308,92997
+88,3-Chlorotyrosine,HMDB01885,"110992
+119226"
+89,3-Cresotinic acid,HMDB02390,6738
+90,3-Furoic acid,HMDB00444 ,10268
+91,3-Hexenedioic acid,HMDB00393,5351896
+92,3-Hydroxy-4-methoxycinnamic acid,HMDB00955 ,736186
+93,3-Hydroxyanthranilic acid,HMDB01476,86
+94,3-Hydroxy-DL-Kynurenine,HMDB01152,89
+95,3-Hydroxyisovaleric acid,HMDB00754,69362
+97,3-Hydroxyphenylacetic acid,HMDB00440 ,12122
+99,3-Indolebutyric acid,HMDB02096,8617
+100,3-Iodo-L-Tyrosine,HMDB00021 ,439744
+101,3-Mercaptopyruvic acid,HMDB01368,98
+102,3-Methoxybenzenepropanoic acid,HMDB11751,66336
+103,3-Methoxyphenylacetate ,HMDB59969,"Status: 404
+Code: PUGREST.NotFound
+Message: No CID found
+Detail: No CID found that matches the given name"
+104,3-Methoxytyramine,HMDB00022 ,1669
+105,3-Methoxytyrosine,HMDB01434,1670
+106,3-Methyl-2-oxopentanoic acid,HMDB00762,47
+107,3-methyl-2-oxo-Valeric acid,HMDB00491 ,47
+108,3-Methyladenine,HMDB11600,1673
+109,3-Methyladipic acid,HMDB00555 ,12292
+110,3-Methylcrotonic acid,HMDB00509 ,10931
+111,3-Methylglutaconic acid,HMDB00522,1551553
+112,3-Methylhistamine,HMDB01861,69520
+113,3-Methylhistidine,HMDB00479 ,64969
+114,3-Methylindole,HMDB00466 ,6736
+115,3-Methylphenylacetic acid,HMDB02222,12121
+116,3-Methylxanthine,HMDB01886,70639
+117,3-Nitrotyrosine ,HMDB01904,"65124
+235719"
+118,3-Oxocholic acid,HMDB00502,"5283956
+44263354
+53477697
+22833528"
+119,3-Penten-2-one,HMDB01184,"637920
+12248
+5356572"
+120,3-Phenoxypropionic acid,HMDB02229,81596
+121,3-Phenylbutyric acid,HMDB01955,20724
+122,3-Pyridylacetic acid,HMDB01538,108
+123,3-Ureidopropionic acid,HMDB00026 ,111
+124,4-Aminohippuric acid,HMDB01867,2148
+125,4-Aminophenol,HMDB01169,403
+126,4-Deoxytetronic acid,HMDB00549,7302
+127,4-Ethylbenzoic acid,HMDB02097,12086
+128,4-Ethylphenol ,HMDB29306,31242
+129,4-Guanidinobutanoic acid,HMDB03464,500
+130,4-heptanone,HMDB04814,31246
+131,4-Hydroxy-3-methoxycinnamic acid,HMDB00537 ,445858
+132,4-Hydroxy-3-methylbenzoic acid,HMDB04815,68138
+133,4-Hydroxybenzaldehyde,HMDB11718,126
+134,4-Hydroxybenzoic acid,HMDB00500 ,135
+135,4-Hydroxycyclohexylcarboxylic acid,HMDB01988,151138
+136,4-Hydroxyhippuric acid,HMDB13678,151012
+137,4-Hydroxyphenyl-2-propionic acid,HMDB41683,102526
+139,4-Methoxycinnamic acid,HMDB02040,699414
+140,4-Methoxyphenylacetic acid,HMDB02072,7690
+141,4-Methylcatechol,HMDB00873 ,9958
+142,4-Nitrophenol,HMDB01232,980
+143,4-Nitrophenyl stearate,HMDB02517,4386004
+144,4-Phenylbutyric acid,HMDB00543,4775
+145,"5a-Androstane-3,17-dione",HMDB00899 ,222865
+146,5-Aminopentanoic acid,HMDB03355,138
+147,5b-Cholestanol,HMDB01569 ,"6665
+66066
+11003628"
+148,5-Hydroxy-DL-lysine hydrochloride,HMDB00450 ,2724399
+149,5-Hydroxymethyl-2-furancarboxaldehyde,HMDB34355,237332
+150,5-Hydroxymethyluracil,HMDB00469 ,78168
+151,5-Hydroxytryptophan,HMDB00504,"144
+439280"
+152,5-L-Hydroxytryptophan,HMDB00472 ,"Status: 404
+Code: PUGREST.NotFound
+Message: No CID found
+Detail: No CID found that matches the given name"
+153,5-Methoxy-2-hydroxybenzoic acid,HMDB01868,75787
+154,5-Methoxysalicylic acid,HMDB01868 ,75787
+155,5-Methoxytryptophan,HMDB02339,151018
+156,5-Methylcytidine,HMDB00982 ,92918
+157,5-Phenylvaleric acid,HMDB02043,16757
+158,6-hydroxynicotinic acid,HMDB02658,72924
+159,6-Phosphogluconic acid,HMDB01316 ,91493
+160,7a-Hydroxy-3-oxo-5b-cholanoic acid,HMDB00503,53477698
+161,7-Dehydrocholesterol,HMDB00032 ,439423
+162,7-Methylguanine,HMDB00897,11361
+163,7-Methylguanosine,HMDB01107 ,"445404
+6474236
+6474237
+91746258"
+164,9-methyluric acid,HMDB01973,108714
+165,a-Aminobutyric acid,HMDB00452 ,119
+166,Acesulfame,HMDB33585,"36573
+11074431"
+167,Acetaminophen ,HMDB01859,1983
+168,Acetylcholine,HMDB00895 ,187
+169,Acetylcysteine,HMDB01890 ,12035
+170,Acetylglycine,HMDB00532 ,10972
+171,Acetyllysine,HMDB00446 ,"265949
+6991978"
+172,Acetylphenylalanine,HMDB00512 ,74839
+173,Acetylphosphate,HMDB01494,186
+174,Aconitic acid,HMDB00461 ,"643757
+444212
+309"
+175,Acrylamide,HMDB04296,6579
+176,Adenosine,HMDB00050 ,60961
+177,"Adenosine 2',3'-cyclic phosphate",HMDB11616,2024
+178,Adenosine monophosphate,HMDB00045 ,6083
+179,Adenosine Triphosphate,HMDB00538 ,5957
+180,Adipic acid,HMDB00448 ,196
+181,Adonitol,HMDB00508 ,6912
+182,ADP,HMDB01341,6022
+183,a-Glycerophosphorylcholine,HMDB00049 ,"71920
+657272"
+184,Agmatine,HMDB01432,199
+185,a-Ketoisovaleric acid,HMDB00019,49
+186,a-Linolenic acid,HMDB01388,5280934
+187,Allantoic acid ,HMDB01209,203
+188,Allantoin,HMDB00462 ,204
+189,Allocholic acid,HMDB00505,160636
+190,Alloisoleucine,HMDB00557 ,99288
+191,Allose ,HMDB01151,439507
+192,Alloxan,HMDB02818,5781
+193,alpha-D-Glucose,HMDB03345,79025
+194,Alpha-N-Phenylacetyl-L-glutamine,HMDB06344,92258
+195,Aminoadipic acid,HMDB00510 ,469
+196,Aminolevulinic acid,HMDB01149,137
+197,Aminopterin,HMDB01833 ,"169371
+2154"
+198,Androstanediol,HMDB00493,"32801
+441301
+242332
+445071"
+199,Androstenedione,HMDB00053 ,6128
+200,Androsterone,HMDB00031 ,5879
+201,Arachidic acid,HMDB02212,10467
+202,Arachidyl alcohol,HMDB11619,12404
+203,Arginine,HMDB00517 ,"6322
+5287702
+444360
+1549073"
+204,Ascorbic acid,HMDB00044 ,54670067
+205,Aspartame,HMDB01894,134601
+206,Aspartyl-lysine,HMDB04987,"Status: 404
+Code: PUGREST.NotFound
+Message: No CID found
+Detail: No CID found that matches the given name"
+208,Aspirin,HMDB01879,2244
+209,Atenolol,HMDB01924 ,2249
+210,Atrolactic acid,HMDB00475 ,1303
+211,Azelaic acid,HMDB00784 ,2266
+212,B-Alanine,HMDB00056 ,239
+213,b-Aminoisobutyric acid,HMDB00485,64956
+214,b-Carotene,HMDB00561,5280489
+215,Behenic acid,HMDB00944 ,8215
+216,Benzaldehyde,HMDB06115,240
+217,Benzamide,HMDB04461,2331
+218,Benzocaine,HMDB04992,2337
+219,Benzoic acid,HMDB01870,243
+220,Benzyl alcohol,HMDB03119,244
+221,Berberine,HMDB03409,2353
+222,Beta-D-Galactose,HMDB03449,439353
+223,Beta-D-Glucose,HMDB00516,64689
+224,Betaine,HMDB00043 ,247
+225,Bilirubin,HMDB00054 ,5280352
+226,Biotin,HMDB00030 ,171548
+227,Brompheniramine,HMDB01941 ,6834
+228,Butyric acid,HMDB00039 ,264
+229,Cadaverine,HMDB02322,273
+230,Caffeic acid,HMDB01964,689043
+231,Caffeine,HMDB01847,2519
+232,Canrenone,HMDB03033,13789
+233,Capric acid,HMDB00511 ,2969
+234,Caproic acid,HMDB00535 ,8892
+235,Caprylic acid,HMDB00482 ,379
+236,Carnitine,HMDB00062 ,"10917
+288
+2724480"
+237,Carnosine,HMDB00033 ,439224
+238,Cellobiose,HMDB00055 ,"10712
+294
+439178
+6255
+441014
+9549179
+46936190"
+239,Chalcone,HMDB03066,637760
+240,Chitin,HMDB03362,"Status: 404
+Code: PUGREST.NotFound
+Message: No CID found
+Detail: No CID found that matches the given name"
+241,Chitosan,HMDB03404,"71853
+21896651"
+242,Chloric acid,HMDB02036,19654
+243,Chloroacetic acid,HMDB31331,300
+244,Chlorogenic acid,HMDB03164,1794427
+245,Cholestanol,HMDB00908 ,6665
+246,Cholestenone,HMDB00921,"91477
+440"
+247,Cholesterol,HMDB00067 ,5997
+248,Cholesteryl linoleate,HMDB00610 ,"5287939
+227041
+6379755
+6538325
+46936301
+54609098
+22833537"
+249,Cholesteryl linolenic acid,HMDB00604,6436907
+250,Cholesteryl oleate ,HMDB00918 ,5283632
+251,Cholesteryl palmitate,HMDB00885 ,246520
+252,Cholic acid,HMDB00619 ,221493
+253,Choline,HMDB00097 ,305
+254,Cinnamic acid,HMDB00567,444539
+255,Cinnamic Aldehyde,HMDB03441,637511
+256,"Cis,cis-muconic acid",HMDB06331,5280518
+257,cis-Aconitic acid,HMDB00072 ,643757
+258,Citicoline ,HMDB01413 ,13804
+259,Citraconic acid,HMDB00634 ,643798
+260,Citric acid,HMDB00094 ,311
+261,Clotrimazole ,HMDB01922 ,2812
+262,Coproporphyrin I,HMDB00643,68271
+263,Coprostanone ,HMDB00871 ,"92128
+92132
+12227114"
+264,Cortexolone,HMDB00015,440707
+265,Corticosterone,HMDB01547 ,5753
+266,Cortisol,HMDB00063 ,5754
+267,Cortisone,HMDB02802,222786
+268,Cotinine,HMDB01046 ,854019
+269,Coumarin ,HMDB01218 ,323
+270,Creatine,HMDB00064 ,586
+271,Creatine phosphate ,HMDB01511,9548602
+272,Creatinine,HMDB00562 ,588
+273,Cyanate,HMDB02078,105034
+274,Cyclic AMP,HMDB00058 ,6076
+275,Cyclohexanone,HMDB03315,7967
+276,Cysteamine,HMDB02991,6058
+277,Cysteine,HMDB00574 ,5862
+278,Cytidine monophosphate,HMDB00095 ,6131
+279,Cytidine triphosphate,HMDB00082,6176
+280,Cytosine,HMDB00630 ,597
+281,D-(-)-3-Phosphoglyceric acid,HMDB00807,724
+282,D-2-Aminobutyric acid,HMDB00650 ,439691
+283,D-Alanine,HMDB01310,71080
+284,D-Aspartic acid ,HMDB06483,83887
+285,dCMP,HMDB01202,13945
+286,Decanal,HMDB11623,8175
+287,Decyl alcohol,HMDB11624,8174
+288,Dehydroascorbic acid,HMDB01264,440667
+289,Dehydroepiandrosterone,HMDB00077 ,5881
+290,Deoxyadenosine,HMDB00101 ,"13730
+636
+6708685
+12800099"
+292,Deoxyadenosine monophosphate ,HMDB00905 ,12599
+293,Deoxycholic acid,HMDB00626 ,222528
+294,Deoxycholic acid glycine conjugate,HMDB00631 ,3035026
+295,Deoxyguanosine,HMDB00085 ,187790
+296,Deoxyinosine,HMDB00071 ,65058
+297,Deuteroprophyrin IX dimethyl ester,HMDB00579,"Status: 404
+Code: PUGREST.NotFound
+Message: No CID found
+Detail: No CID found that matches the given name"
+298,Dextromethorphan ,HMDB01920 ,5360696
+299,"D-Fructose-6-phosphate,disodium",HMDB00124,"Status: 404
+Code: PUGREST.NotFound
+Message: No CID found
+Detail: No CID found that matches the given name"
+300,"D-glucurono-6,3-lactone",HMDB06355,"92283
+219402"
+301,D-Glutamic acid,HMDB03339,23327
+302,D-Glutamine,HMDB03423,145815
+303,Diaminopimelic Acid,HMDB01370 ,"865
+99290
+439283"
+304,Diethanolamine,HMDB04437,8113
+305,Diethylthiophosphate,HMDB01460,"655
+3683036"
+306,Diglycolic Acid,HMDB02317,8088
+307,Digoxin Crystalline,HMDB01917 ,"Status: 404
+Code: PUGREST.NotFound
+Message: No CID found
+Detail: No CID found that matches the given name"
+308,Dihydrothymine,HMDB00079 ,93556
+309,Dihydrouracil,HMDB00076 ,649
+310,Dihydroxyacetone,HMDB01882,670
+311,Dihydroxyphenylalanine,HMDB00609,"836
+6047
+92222"
+312,Diiodothyronine,HMDB00627 ,"92859
+123675"
+313,Diltiazem,HMDB02873,39186
+314,Dimethyl sulfone,HMDB04983,6213
+315,Dimethylglycine,HMDB00092,673
+316,Dimethylmalonic acid,HMDB02001,11686
+317,Diphenhydramine Hydrochloride,HMDB01927 ,8980
+318,DL-2-Amino-n-butyric acid,HMDB00581 ,6657
+319,DL-2-Aminooctanoic acid,HMDB00991 ,69522
+320,D-Lactic acid ,HMDB01311 ,61503
+321,DL-Adrenaline,HMDB00615 ,838
+322,DL-a-Glycerophosphate,HMDB00126 ,"754
+439162"
+323,DL-a-Lipoamide,HMDB00962,"Status: 404
+Code: PUGREST.NotFound
+Message: No CID found
+Detail: No CID found that matches the given name"
+324,DL-Arabinose,HMDB00646 ,"854
+66308
+5460291"
+325,DL-Beta-Leucine,HMDB03640,193411
+326,DL-Glyceraldehyde,HMDB01051 ,751
+327,DL-Homocystine,HMDB00575 ,10010
+328,DL-O-Phosphoserine,HMDB01721 ,106
+329,DL-Phenylalanine,HMDB00612 ,994
+330,DL-Pipecolic acid,HMDB00070 ,849
+331,DL-Serine,HMDB00589 ,617
+332,DL-Valine,HMDB00571 ,1182
+333,D-Lysine,HMDB03405,57449
+334,D-Melibiose,HMDB00048 ,"440658
+11458"
+335,Dodecanedioic acid,HMDB00623 ,12736
+336,Dodecanoic acid,HMDB00638 ,3893
+337,Dodecanol,HMDB11626,8193
+338,Dopamine,HMDB00073 ,681
+339,Doxylamine,HMDB01936 ,3162
+340,D-Phenyllactic acid,HMDB00563,"Status: 404
+Code: PUGREST.NotFound
+Message: No CID found
+Detail: No CID found that matches the given name"
+341,D-Ribose 5-phosphate ,HMDB01548,"Status: 404
+Code: PUGREST.NotFound
+Message: No CID found
+Detail: No CID found that matches the given name"
+342,D-Threitol,HMDB04136,169019
+343,D-Xylose,HMDB00098 ,135191
+344,D-Xylulose,HMDB01644 ,"5289590
+619
+644111"
+345,e-Aminocaproic acid,HMDB01901,564
+346,Elaidic acid,HMDB00573 ,637517
+347,Ellagic acid,HMDB02899,5281855
+348,Epicatechin,HMDB01871,72276
+349,epi-inositol,HMDB06088,892
+350,Epinephrine,HMDB00068 ,5816
+351,Ergocalciferol,HMDB00900,5280793
+352,Ergosterol,HMDB00878 ,444679
+353,Erucic acid,HMDB02068,5281116
+354,Erythritol,HMDB02994,222285
+355,Estradiol,HMDB00151 ,5757
+356,Estriol,HMDB00153 ,5756
+357,Estrone,HMDB00145 ,5870
+358,Ethanolamine,HMDB00149 ,700
+359,Ethyl lactate,HMDB40735,7344
+360,Ethyl Malonate,HMDB00576 ,"Status: 404
+Code: PUGREST.NotFound
+Message: No CID found
+Detail: No CID found that matches the given name"
+361,Ethylmalonic acid,HMDB00622 ,11756
+362,Ethylmethylacetic acid,HMDB02176,8314
+363,Famotidine,HMDB01919 ,5702160
+364,FAPy-adenine,HMDB04816,114926
+365,Flavin adenine dinucleotide,HMDB01248 ,643975
+366,Flavin mononucleotide,HMDB01520 ,"643976
+23666409
+23679076
+24812731
+44229199"
+367,Flavone,HMDB03075,10680
+368,Folic acid,HMDB00121 ,6037
+369,Formamide ,HMDB01536,713
+370,Fructose,HMDB00660 ,2723872
+371,"Fructose-1,6-diphosphate",HMDB01058 ,"10267
+445557
+46937007
+718
+172313"
+372,Fumaric acid,HMDB00134 ,444972
+373,Furosemide,HMDB01933,3440
+374,Galactan,HMDB04162,"Status: 404
+Code: PUGREST.NotFound
+Message: No CID found
+Detail: No CID found that matches the given name"
+375,Galactaric acid,HMDB00639 ,3037582
+376,Galactitol,HMDB00107 ,11850
+377,Galactonic acid,HMDB00565,128869
+378,Galactose,HMDB00143 ,6036
+379,Galacturonic acid,HMDB02545,439215
+380,Gallic acid,HMDB05807,370
+381,gama-caprolactone,HMDB03843,"Status: 404
+Code: PUGREST.NotFound
+Message: No CID found
+Detail: No CID found that matches the given name"
+382,gamma-Aminobutyric acid,HMDB00112 ,119
+383,Gentisic acid,HMDB00152 ,3469
+384,Geraniol,HMDB05812,637566
+385,Glucaric acid,HMDB00663 ,33037
+386,Gluconic acid,HMDB00625,10690
+387,"Glucono 1,5-lactone",HMDB00150 ,7027
+388,Glucosamine,HMDB01514 ,439213
+389,Glucosamine 6-phosphate,HMDB01254,"439217
+440997
+16019957"
+390,Glucose,HMDB00122 ,5793
+391,Glucose 1-phosphate,HMDB01586,439165
+392,Glucose-6-phosphate,HMDB01401 ,"Status: 404
+Code: PUGREST.NotFound
+Message: No CID found
+Detail: No CID found that matches the given name"
+393,Glucuronic acid,HMDB00127 ,94715
+394,Glutaconic acid,HMDB00620 ,5280498
+395,Glutamic Acid,HMDB00148 ,"33032
+611
+23327"
+396,Glutamine,HMDB00641 ,5961
+397,Glutaric acid,HMDB00661 ,743
+398,Glutathione,HMDB00125 ,124886
+399,Glyceric acid,HMDB00139 ,752
+400,Glycerol,HMDB00131,753
+401,Glycerol tripalmitate,HMDB05356,11147
+402,Glycerophosphocholine,HMDB00086,"657272
+439285"
+403,Glycine,HMDB00123 ,750
+404,Glycocholic acid,HMDB00138 ,10140
+405,Glycogen,HMDB00757 ,439177
+406,Glycolic acid,HMDB00115 ,757
+407,Glycyl-glycine,HMDB11733,11163
+408,Glycyl-L-leucine,HMDB00759 ,92843
+409,Glycyl-L-proline,HMDB00721,3013625
+410,Glycyrrhetinic acid ,HMDB11628,10114
+411,Glyoxylic acid,HMDB00119 ,760
+412,Guaiacol ,HMDB01398,460
+413,Guaiacol Glyceryl Ether,HMDB01931 ,3516
+414,Guanidine,HMDB01842 ,3520
+415,Guanidoacetic acid,HMDB00128 ,763
+416,Guanine,HMDB00132 ,764
+417,Guanosine 5'-diphosphate,HMDB01201 ,8977
+419,Guanosine 5'-monophosphate,HMDB01397,6804
+420,Gulonic acid,HMDB03290,152304
+421,Harmaline ,HMDB03188 ,5280951
+422,Hematoporphyrin,HMDB00668 ,11103
+423,Hemin,HMDB00887 ,"Status: 404
+Code: PUGREST.NotFound
+Message: No CID found
+Detail: No CID found that matches the given name"
+424,Heneicosanoic acid,HMDB02345,16898
+425,Heptanoic acid,HMDB00666 ,8094
+426,Hesperidin ,HMDB03265 ,"10621
+3594
+6419939
+5701999
+16394497
+45358131
+44143719
+45933922
+53477767
+86579284
+91927750"
+427,Hexadecanedioic acid,HMDB00672,10459
+428,Hexanal,HMDB05994,6184
+429,Hexanolactone,HMDB00453,13204
+430,Hippuric acid,HMDB00714 ,464
+431,Histamine,HMDB00870 ,774
+432,Homocitrulline,HMDB00679,65072
+433,Homocysteine,HMDB00742 ,"778
+91552"
+434,Homogentisic acid,HMDB00130 ,780
+435,Homovanillic acid,HMDB00118,1738
+436,Hydrochlorothiazide,HMDB01928 ,3639
+437,Hydrocinnamic acid,HMDB00764 ,107
+438,Hydroxyisobutyric acid,HMDB00729 ,11671
+439,Hydroxyisocaproic acid,HMDB00746 ,92779
+440,Hydroxylamine,HMDB03338,787
+441,Hydroxyoctanoic acid,HMDB00711 ,69820
+442,Hydroxyphenylacetic acid,HMDB00669 ,11970
+443,Hydroxypropionic acid,HMDB00700,68152
+444,Hyodeoxycholic acid,HMDB00733 ,"5283820
+227033
+6747
+9963687
+16219478
+18346237
+45356272
+3038175
+22827122
+46224607
+91810857
+376833"
+445,Hypotaurine,HMDB00965 ,107812
+446,Hypoxanthine,HMDB00157 ,790
+447,Ibuprofen,HMDB01925,3672
+448,Imidazole,HMDB01525,795
+449,Imidazoleacetic acid,HMDB02024,96215
+450,Imipramine,HMDB01848,3696
+451,Indole,HMDB00738 ,798
+452,Indole-3-carbinol,HMDB05785,3712
+453,Indole-3-carboxylic acid,HMDB03320,69867
+454,Indole-3-ethanol,HMDB03447,10685
+455,Indoleacetic acid,HMDB00197 ,802
+456,Indoleacrylic acid,HMDB00734,"5375048
+5355219
+6931339"
+457,Indolepyruvic acid,HMDB60484,"803
+5460337"
+458,Indoxyl,HMDB04094,50591
+459,Indoxyl sulfate,HMDB00682 ,10258
+460,Inosine,HMDB00195 ,6021
+461,Inosine triphosphate,HMDB00189,8583
+462,Inosinic acid,HMDB00175,8582
+463,Isobutyric acid,HMDB01873,6590
+464,Isobutyrylglycine,HMDB00730,10855600
+465,Isocaproic acid,HMDB00689 ,12587
+466,Isocitric acid,HMDB00193,"1198
+5318532
+440409
+447805"
+467,Isoeugenol,HMDB05802,853433
+468,Isomaltose,HMDB02923,"439193
+872
+10357
+46781992
+118705308"
+469,Isopentanol,HMDB06007,31260
+470,Isopropyl ethyl ketone,HMDB05846,11265
+471,Iso-Valeraldehyde,HMDB06478,11552
+472,Isovaleric acid,HMDB00718 ,10430
+473,Isovanillic acid,HMDB60003,12575
+474,Isoxanthopterin,HMDB00704 ,10729
+475,Itaconic acid,HMDB02092,811
+476,Kynurenic acid,HMDB00715 ,3845
+477,Kynurenine,HMDB00684 ,846
+478,L(-) -Nicotine,HMDB01934 ,"Status: 404
+Code: PUGREST.NotFound
+Message: No CID found
+Detail: No CID found that matches the given name"
+479,L-3-Phenyllactic acid,HMDB00748,"444718
+643327"
+480,L-Acetylcarnitine,HMDB00201 ,"7045767
+18230
+1"
+481,Lactose,HMDB00186 ,"6134
+84571
+440995
+294
+439186
+69301022"
+482,Lactulose,HMDB00740  ,"11333
+16217605
+11024312
+3872
+16760534
+122173797"
+483,L-Alanine,HMDB00161 ,5950
+484,L-Allothreonine,HMDB04041,99289
+485,L-Arabinose,HMDB00487 ,439195
+486,L-Arabitol,HMDB01851 ,439255
+487,L-Asparagine,HMDB00168 ,6267
+488,L-Aspartic acid,HMDB00191 ,5960
+489,Lathosterol ,HMDB01170 ,65728
+490,L-Citrulline,HMDB00904 ,9750
+491,L-Cysteine,HMDB00192,5862
+492,L-Cystine,HMDB00192 ,67678
+493,L-Dopa,HMDB00181,6047
+494,Leucine,HMDB00687 ,"6106
+857
+439524"
+495,Leucinic acid,HMDB00665,92779
+496,Levofloxacin,HMDB01929 ,149096
+497,Levomenthol,HMDB03352,16666
+498,Levulinic acid,HMDB00720 ,11579
+499,L-Fucose,HMDB00174 ,17106
+500,L-Histidine,HMDB00177 ,6274
+501,L-Homocyseic acid,HMDB02205,"Status: 404
+Code: PUGREST.NotFound
+Message: No CID found
+Detail: No CID found that matches the given name"
+502,L-Homoserine,HMDB00719 ,12647
+503,Linoleic acid,HMDB00673 ,5280450
+504,Lipoic acid,HMDB01451,"6112
+864
+445125"
+505,L-Isoleucine,HMDB00172 ,6306
+506,Lithocholic acid,HMDB00761 ,9903
+507,L-Kynurenine,HMDB00183 ,161166
+508,L-Lactic acid,HMDB00190 ,107689
+509,L-Lysine,HMDB00182 ,5962
+510,L-Malic acid,HMDB00156 ,222656
+511,L-Norleucine,HMDB01645 ,21236
+512,Loperamide,HMDB04999,3955
+513,Loratadine,HMDB05000,3957
+514,L-Ornithine,HMDB04984,6262
+515,L-Phenylalanine,HMDB00159 ,6140
+516,L-Pipecollinic acid,HMDB00716,"Status: 404
+Code: PUGREST.NotFound
+Message: No CID found
+Detail: No CID found that matches the given name"
+517,L-Proline,HMDB00162 ,145742
+518,L-Serine,HMDB00187 ,5951
+519,L-Sorbose,HMDB01266,439192
+520,L-Threonine,HMDB00167 ,6288
+521,L-Thyroxine,HMDB01918 ,5819
+522,L-Tyrosine,HMDB00158 ,6057
+523,Maleic acid,HMDB00176 ,444266
+524,Malic acid,HMDB00744 ,525
+525,Malonic acid,HMDB00691 ,867
+526,Maltitol,HMDB02928,493591
+527,Maltose,HMDB00163 ,"6255
+439186
+439341
+294
+10991489
+45109807
+46936190"
+528,Maltotriose,HMDB01262,"439586
+192826
+871
+6540298
+17751024
+91746257"
+529,m-Aminobenzoic acid,HMDB01891 ,7419
+530,Mandelic acid,HMDB00703 ,1292
+531,Mannitol,HMDB00765 ,6251
+532,m-Chlorobenzoic acid,HMDB01544,447
+533,m-Coumaric acid,HMDB01713 ,637541
+534,Mesaconic acid,HMDB00749,638129
+535,Methionine sulfoxide,HMDB02005,"847
+158980
+9577091
+10062737"
+536,methyl disulfide,HMDB05879,12232
+537,Methylcysteine,HMDB02108,"24417
+225710"
+538,Methylglutaric acid,HMDB00752,12284
+539,Methylguanidine,HMDB01522 ,10111
+540,Methylhippuric acid,HMDB00859,"71002
+709778"
+541,Methylmalonic acid,HMDB00202 ,487
+542,Methyloxovaleric acid,HMDB00695 ,"Status: 404
+Code: PUGREST.NotFound
+Message: No CID found
+Detail: No CID found that matches the given name"
+543,Methylsuccinic acid,HMDB01844,10349
+544,Metoprolol,HMDB01932 ,4171
+545,Miconazole ,HMDB01108 ,4189
+546,Monomethyl glutaric acid,HMDB00858 ,73917
+547,Myo-Inositol,HMDB00211 ,892
+548,Myristic acid,HMDB00806 ,11005
+549,"N,N-Dimethylaniline",HMDB01020,949
+550,"N,N-Dimethylglycine",HMDB00092,673
+551,N1-Methyl-2-pyridone-5-carboxamide,HMDB04193,69698
+552,N6-Acetyl-L-lysine,HMDB00206 ,92832
+553,N-Acetputrescine hydrochloride,HMDB02064,"Status: 404
+Code: PUGREST.NotFound
+Message: No CID found
+Detail: No CID found that matches the given name"
+554,N-Acetylaspartic acid,HMDB00812 ,65065
+555,N-Acetyl-b-D-glucosamine,HMDB00803 ,24139
+556,N-Acetyl-D-glucosamine,HMDB00215,439174
+557,N-acetylgalactosamine,HMDB00212 ,"35717
+84265
+899
+439174
+440552
+57455154"
+558,N-Acetylglutamic acid,HMDB01138,70914
+559,N-Acetylglutamine,HMDB06029,"25561
+182230"
+560,N-Acetyl-L-alanine,HMDB00766 ,88064
+561,N-Acetyl-L-methionine,HMDB11745,448580
+562,N-Acetyl-L-tyrosine ethyl ester ,HMDB00974 ,13289
+563,N-Acetylmannosamine,HMDB01129,"439281
+11096158
+644170"
+564,N-acetylneuraminic acid,HMDB00230 ,439197
+565,N-Acetylserotonin ,HMDB01238 ,903
+566,N-Acetyltyrosine,HMDB00866 ,"68310
+89216"
+567,NAD,HMDB00902 ,"5892
+5893
+15938971
+16212831
+72710628"
+568,NADH,HMDB01487,"439153
+21604869
+2724710
+56846571"
+569,Naproxen,HMDB01923 ,156391
+570,Naringenin,HMDB02670,"932
+439246
+667495"
+571,Naringin,HMDB02927,"442428
+25075
+4441
+5284651
+5351463
+45358136
+6710627
+74787988
+45933923
+91740219"
+572,N-Carbamoyl-DL-aspartic acid,HMDB00828 ,279
+573,Nervonic acid,HMDB02368,5281120
+574,N-formyl-Lmethionine,HMDB01015,"Status: 404
+Code: PUGREST.NotFound
+Message: No CID found
+Detail: No CID found that matches the given name"
+575,Niacinamide,HMDB01406 ,936
+576,Nicotinamide-adenine dinucleotide phosphate,HMDB00217 ,5886
+577,Nicotinuric acid,HMDB03269,68499
+578,Nimbosterol,HMDB00852 ,222284
+579,N-isovaleroylglycine,HMDB00678,546304
+580,N-Methyl-a-aminoisobutyric acid,HMDB02141,75725
+581,N-Methyl-D-aspartic acid,HMDB02393,22880
+582,N-Methylnicotinamide,HMDB03152,64950
+583,Nonadecanoic acid,HMDB00772 ,12591
+584,Nonanoic acid,HMDB00847 ,8158
+585,Norepinephrine,HMDB00216 ,439260
+586,Normetanephrine,HMDB00819 ,1237
+587,Norspermidine,HMDB11634,5942
+588,Nutriacholic acid,HMDB00467,53477693
+589,o-Cresol ,HMDB02055,335
+590,Octacosanoic acid,HMDB02348,10470
+591,Octadecanedioic acid ,HMDB00782,70095
+592,Octadecanol,HMDB02350,8221
+593,Octaldehyde,HMDB01140 ,454
+594,Oleanolic acid,HMDB02364,10494
+595,Oleic acid,HMDB00207 ,445639
+596,Omeprazole ,HMDB01913 ,4594
+597,O-Phosphoethanolamine,HMDB00224 ,1015
+598,Ornithine,HMDB00214 ,"6262
+449468
+6992088"
+599,Orotic acid,HMDB00226 ,967
+600,Oxalacetic acid,HMDB00223 ,970
+601,Oxalic acid,HMDB02329,971
+602,Oxidized glutathione,HMDB03337,65359
+603,Oxoglutaric acid,HMDB00208 ,51
+604,Oxypurinol,HMDB00786 ,4644
+605,Palmitic acid,HMDB00220 ,985
+606,p-Aminobenzoic acid,HMDB01392 ,978
+607,p-Anisic acid,HMDB01101,7478
+608,Pantothenic acid,HMDB00210 ,"6613
+443753
+11777341"
+609,Parahydroxyphenylacetic acid,HMDB00020 ,"Status: 404
+Code: PUGREST.NotFound
+Message: No CID found
+Detail: No CID found that matches the given name"
+610,Pectin,HMDB03402,441476
+611,pentacoasanoic acid,HMDB02361,"Status: 404
+Code: PUGREST.NotFound
+Message: No CID found
+Detail: No CID found that matches the given name"
+612,Pentadecanoic acid,HMDB00826 ,13849
+613,Perillic acid,HMDB04586,1256
+614,Perillyl alcohol,HMDB03634,10819
+615,Phenol,HMDB00228,996
+616,Phenylacetaldehyde,HMDB06236,998
+617,Phenylacetic acid,HMDB00209 ,999
+618,Phenylacetylglycine,HMDB00821,68144
+619,Phenylephrine,HMDB02182,6041
+620,Phenylethanolamine,HMDB01065,1000
+621,Phenylglyoxylic acid,HMDB01587,11915
+622,Phenyllactic acid,HMDB00779 ,"1303
+736858"
+623,Phenylpropanolamine,HMDB01942 ,"26934
+4786
+10297
+162265"
+624,Phenylpropiolic acid,HMDB02359,69475
+625,Phenylpyruvic acid,HMDB00205 ,997
+626,Sodium Phosphate,HMDB01429,24243
+627,Phosphonoacetate,HMDB04110,546
+628,Phosphorylcholine,HMDB00284,"1014
+7886
+135437"
+629,Phosphoserine,HMDB00272 ,68841
+630,Phthalic acid,HMDB02107,1017
+631,p-Hydroxymandelic acid,HMDB00822,328
+632,Phytanic acid,HMDB00801 ,26840
+633,Picolinic acid,HMDB02243,1018
+634,Pimelic acid,HMDB00857 ,385
+635,Pregnenolone,HMDB00253 ,8955
+636,Progesterone,HMDB01830 ,5994
+637,Propionic acid,HMDB00237 ,1032
+638,Propranolol,HMDB01849,4946
+639,Protocatechuic acid,HMDB01856,72
+640,Pterin,HMDB00802 ,73000
+641,Purine,HMDB01366 ,1044
+642,Putrescine,HMDB01414 ,1045
+643,Pyridine,HMDB00926 ,1049
+644,Pyridoxal,HMDB01545 ,1050
+645,Pyridoxal 5-phosphate,HMDB01491 ,1051
+646,Pyridoxamine,HMDB01431 ,1052
+647,Pyridoxine,HMDB00239 ,1054
+648,Pyrimidine,HMDB03361,9260
+649,Pyrocatechol,HMDB00957 ,289
+650,Pyromucic Acid,HMDB00617 ,6919
+651,Pyrrole-2-carboxylic acid,HMDB04230,12473
+652,Pyrrolidonecarboxylic acid,HMDB00805 ,7405
+653,Quercetin,HMDB05794,5280343
+654,Quinaldic acid,HMDB00842,7124
+655,Quinolinic acid,HMDB00232 ,1066
+656,Raffinose,HMDB03213,439242
+657,Ranitidine Hcl,HMDB01930 ,"3001055
+3033332
+24883424"
+658,Retinal,HMDB01358,638015
+659,Rhamnose,HMDB00849,25310
+660,Riboflavin,HMDB00244 ,493570
+661,Ribose,HMDB00283 ,10975657
+662,Ribothymidine,HMDB00884,445408
+663,Rutin,HMDB03249,5280805
+664,Salicin,HMDB03546,439503
+665,Salicylic acid,HMDB01895,338
+666,Sarcosine,HMDB00271 ,1088
+667,Scopolamine ,HMDB03573 ,"3000322
+5184
+5809
+153311
+6451257
+6432494
+11968014
+452977
+2723877
+5284456"
+668,Sebacic acid,HMDB00792 ,5192
+669,Sedoheptulose,HMDB03219,"5459879
+102926
+72941451"
+670,Sepiapterin,HMDB00238,65253
+671,Serotonin,HMDB00259,5202
+672,Shikimic acid,HMDB03070,8742
+673,Sialyllactose,HMDB00825,"Status: 404
+Code: PUGREST.NotFound
+Message: No CID found
+Detail: No CID found that matches the given name"
+674,Sinapic acid,HMDB32616,637775
+675,Sodium Bisulfite,HMDB01033,23665763
+676,Sodium Triphosphate,HMDB03379,24455
+677,Sorbitol,HMDB00247 ,5780
+678,Spermidine,HMDB01257,1102
+679,Spermine,HMDB01256,1103
+680,Sphingosine,HMDB00252 ,5280335
+681,Squalene,HMDB00256,638072
+682,Stachyose,HMDB03553,439531
+683,Stearic acid,HMDB00827 ,5281
+684,Stigmasterol,HMDB00937 ,5280794
+685,Suberic acid,HMDB00893 ,10457
+686,Succinic acid,HMDB00254 ,1110
+687,Succinic anhydride,HMDB32523,7922
+688,Succinylacetone,HMDB00635 ,5312
+689,Sucrose,HMDB00258 ,5988
+690,Sulfolithocholic acid,HMDB00907,451489
+691,Sumiki's acid,HMDB02432,80642
+692,Syringic acid,HMDB02085,10742
+693,Tartaric acid,HMDB00956 ,"875
+444305
+439655"
+694,Taurine,HMDB00251 ,1123
+695,Taurocholic acid,HMDB00036,6675
+696,Taurodeoxycholic acid,HMDB00896,"2733768
+10594
+92042745"
+697,Terephthalic acid,HMDB02428,7489
+698,Tetracosanoic acid,HMDB02003,11197
+699,Tetradecanedioic acid,HMDB00872 ,13185
+700,Tetradecanol,HMDB11638,8209
+701,Tetradecylamine,HMDB03171,16217
+702,Tetrahydrofolic acid,HMDB01846,91443
+703,Theophylline,HMDB01889,2153
+704,Thiamine,HMDB00235 ,1130
+705,Thiamine pyrophosphate,HMDB01372,"9068
+1132
+5431
+644169
+15938963
+71586757
+6518189"
+706,Thiocyanate,HMDB01453,9322
+707,Thiosulfate,HMDB00257,1084
+708,threo-Isocitric acid,HMDB01874,"Status: 404
+Code: PUGREST.NotFound
+Message: No CID found
+Detail: No CID found that matches the given name"
+709,Threonic acid,HMDB00943,"5460407
+151152
+439535"
+710,Thymine,HMDB00262 ,1135
+711,Thymol,HMDB01878,6989
+712,Tiglic acid,HMDB01470 ,125468
+713,Tocopherol,HMDB01492 ,"Status: 404
+Code: PUGREST.NotFound
+Message: No CID found
+Detail: No CID found that matches the given name"
+714,Tolnaftate ,HMDB05005 ,5510
+715,trans-4-Hydroxy-3-methoxycinnamic acid,HMDB00954 ,445858
+716,trans-Aconitic acid,HMDB00958,444212
+717,trans-Cinnamic acid,HMDB00930 ,444539
+718,trans-Glutaconic acid,HMDB01657 ,5280498
+719,Traumatic acid,HMDB00933,5283028
+720,Trehalose,HMDB00975,7427
+721,Triamterene,HMDB01940 ,5546
+722,Tricosanoic acid,HMDB01160 ,17085
+723,Tridecanoic acid,HMDB00910 ,12530
+724,Triethylamine,HMDB32539,8471
+725,Trigonelline,HMDB00875,5570
+726,Trimethylamine,HMDB00906 ,1146
+727,Trimethylamine Oxide,HMDB00925 ,1145
+728,Tryptamine,HMDB00303 ,1150
+729,Tryptophan,HMDB00929 ,6305
+730,Turanose ,HMDB11740,5460935
+731,Tyramine,HMDB00306 ,5610
+732,Undecanedioic acid,HMDB00888 ,15816
+733,Undecanoic acid,HMDB00947 ,8180
+734,Uracil,HMDB00300 ,1174
+735,Urea,HMDB00294 ,1176
+736,Uric acid,HMDB00289 ,1175
+737,Uridine,HMDB00296 ,6029
+738,Uridine 5'-monophosphate,HMDB00288,6030
+739,Urocanic acid,HMDB00301 ,736715
+740,Ursodeoxycholic acid,HMDB00946 ,31401
+741,Vaccenic acid,HMDB03231,"5281127
+5282761
+122325"
+742,Valeric acid,HMDB00892 ,7991
+743,Valproic acid,HMDB01877,3121
+744,Vanillin,HMDB12308,1183
+745,Vanillylmandelic acid,HMDB00291 ,1245
+746,Verapramil,HMDB01850,65808
+747,Vitamin A,HMDB00305 ,445354
+748,Vitamin D3,HMDB00876 ,5280795
+749,Vitamin Ea,HMDB01893,14985
+750,Vitamin K3,HMDB01892,4055
+751,Xanthine,HMDB00292 ,1188
+752,Xanthosine,HMDB00299 ,64959
+753,Xylitol,HMDB02917,6912
+754,y-Terpinene,HMDB05806,"Status: 404
+Code: PUGREST.NotFound
+Message: No CID found
+Detail: No CID found that matches the given name"
