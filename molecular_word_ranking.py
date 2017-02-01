@@ -22,7 +22,7 @@ for link in links:
 
 word_array = content.split()
 
-word_dict = []
+word_dict = {}
 for word in word_array:
 	if(word_dict[word] == 0) word_dict[word] = 0
 	else word_dict[word]++
