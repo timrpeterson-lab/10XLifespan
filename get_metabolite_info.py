@@ -13,9 +13,9 @@ with open('20160109RJ755 HML Compounds available.csv','r') as csvinput:
 		all.append(row)
 
 		for row in reader:
-			print row[1]
+			#print row[1]
 			response = requests.get('https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/' + row[1] + '/cids/TXT')
-			print response.text
+			#print response.text
 			#quit()
 			row.append(response.text.strip())
 
