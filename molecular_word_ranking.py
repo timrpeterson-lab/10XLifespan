@@ -8,13 +8,17 @@ $ scrapy crawl keywordSpider -a keyword=stem\ cell\ metabolites -a se=bing -a pa
 '''
 
 # The following is pseudo code
-links = open('urls.txt')
+
+with open('urls.txt') as f:
+    links = f.readlines()
+
 
 content = ''
 for link in links:
-	if 'ncbi' in link: continue
-	response = request(link)
-	content = content + response
+	if 'ncbi' in link: 
+		continue
+	response = requests(link)
+	content = content + response.text
 
 word_array = content.split()
 
