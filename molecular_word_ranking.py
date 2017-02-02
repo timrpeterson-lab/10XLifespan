@@ -11,6 +11,7 @@ $ scrapy crawl keywordSpider -a keyword=stem\ cell\ metabolites -a se=bing -a pa
 from bs4 import BeautifulSoup
 from collections import Counter
 import urllib.request
+import urllib.error
 
 def read_url_list_from_file(filename):
     with open(filename) as f:
@@ -38,7 +39,7 @@ with open('urls.txt') as oldfile, open('editedurls.txt', 'w') as newfile:
         if not any(bad_word in line for bad_word in bad_words):
             newfile.write(line)
 
-links = read_url_list_from_file('urls_short.txt')
+links = read_url_list_from_file('editedurls.txt')
 english = read_list_from_file('words.txt')
 
 for link in links:
