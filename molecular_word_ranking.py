@@ -1,57 +1,95 @@
-#execute from the command line
-'''
+# execute from the command line
+"""
 $ pip install scrapy
 $ pip install seCrawler
-$ scrapy crawl keywordSpider -a keyword=stem\ cell\ metabolites -a se=bing -a pages=50
-'''
+$ scrapy crawl keywordSpider -a keyword=stem\ cell\ metabolism -a se=bing -a pages=50
+"""
 
-#something about http://www.sciencedirect.com/science/article/pii/S016372589900073X broke bs4
-#todo: only accept 200 status codes
+# something about http://www.sciencedirect.com/science/article/pii/S016372589900073X broke bs4
 
 from bs4 import BeautifulSoup
+import os
+from subprocess import run
 from collections import Counter
 import urllib.request
 import urllib.error
+import time
+import socket
+
 
 def read_url_list_from_file(filename):
     with open(filename) as f:
-        list = f.readlines()
-        return [line.strip() for line in list]
+        filelist = f.readlines()
+        return [line.strip() for line in filelist]
+
+
+def strip_unwanted_characters_and_split(text):
+    chars_to_remove = ['\n', '"', '.', '"', ':', '<', '>', '[', ';', ']', '!', '\\', '_', '=', '"', '/']
+    text1 = ''.join([c if c not in chars_to_remove else ' ' for c in text])
+    return [c for c in text1.split(' ') if c != '']
+
+
+def get_words_from_pdf(url):
+    file_name, headers = urllib.request.urlretrieve(url)
+    run(['pdftotext.exe', file_name, 'tmp.txt'])
+    os.remove(file_name)
+    try:
+        with open('tmp.txt', 'r') as f:
+            words = strip_unwanted_characters_and_split(f.read())
+        os.remove('tmp.txt')
+    except FileNotFoundError:
+        return []
+    return words
+
 
 def get_words(url):
-    chars_to_remove = ['\n', '"', '.', '“', ':', ',', '<', '>', '[', ';', ']', '!', '(', ')', '\\', '_', '=', '”', '/']
-    req = urllib.request.Request(url)
-    req.add_header('Accept-Encoding', 'utf-8')
-    soup = BeautifulSoup(urllib.request.urlopen(req), 'html.parser')
+    if url.endswith('.pdf'):
+        return get_words_from_pdf(url)
+    try:
+        page_data = urllib.request.urlopen(url, timeout=10)
+    except socket.timeout:
+        return []
+    if page_data.code != 200:
+        return []
+    soup = BeautifulSoup(page_data, 'html.parser')
     text = soup.get_text(' ', strip=True).lower().replace('’', "'")
-    text1 = ''.join([c if c not in chars_to_remove else ' ' for c in text])
-    return text1.split(' ')
-    #todo add rest of punctuation
+    return strip_unwanted_characters_and_split(text)
+
 
 def read_list_from_file(filename):
     with open(filename) as f:
         return set(([word.strip('\n') for word in f.readlines()]))
 
-bad_words = ['ncbi', 'sciencedirect']
+inter_request_interval_in_seconds = 5
+bad_words = ['ncbi', 'sciencedirect', 'eypsb.us']
+urls = read_url_list_from_file('urls2.txt')
+pdf_urls = [url for url in urls if url.endswith('.pdf')]
+bad_words_removed = [url for url in urls if not any(bad_word in url for bad_word in bad_words)]
+print(len(urls))
+print(len(pdf_urls))
+print(len(bad_words_removed))
 
-with open('urls.txt') as oldfile, open('editedurls.txt', 'w') as newfile:
-    for line in oldfile:
-        if not any(bad_word in line for bad_word in bad_words):
-            newfile.write(line)
+english = read_list_from_file('3000words.txt')
+all_words_combined = []
+next_request_time = time.time()
 
-links = read_url_list_from_file('editedurls.txt')
-english = read_list_from_file('words.txt')
-
-for link in links:
-    all_words_combined = []
+for link in bad_words_removed:
+    while time.time() < next_request_time:
+        print('Being nice...')
+        time.sleep(next_request_time - time.time())
     try:
+        print('Processing {0}'.format(link))
         word_list = get_words(link)
-    except 'urllib.error.HTTPError: HTTP Error 403: Forbidden':
-        print('error')
+    except urllib.error.HTTPError as err:
+        print('{0} on {1}'.format(type(err), link))
+    except urllib.error.URLError as err:
+        print('{0} on {1}'.format(type(err), link))
+    except ValueError as err:
+        print('{0} on {1}'.format(type(err), link))
 
     final_word_list = [word for word in word_list if word not in english]
-    all_words_combined.append(final_word_list)
+    for word in final_word_list:
+        all_words_combined.append(word)
 
-single_list = [x for y in all_words_combined for x in y]
-ranked_words = Counter(single_list).most_common
+ranked_words = Counter(all_words_combined).most_common(50)
 print(ranked_words)
