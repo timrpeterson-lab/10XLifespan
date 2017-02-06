@@ -35,11 +35,11 @@ def get_words_from_pdf(url):
     os.remove(file_name)
     try:
         with open('tmp.txt', 'r') as f:
-            words = strip_unwanted_characters_and_split(f.read())
+            wordsfromurl = strip_unwanted_characters_and_split(f.read())
         os.remove('tmp.txt')
     except FileNotFoundError:
         return []
-    return words
+    return wordsfromurl
 
 
 def get_words(url):
