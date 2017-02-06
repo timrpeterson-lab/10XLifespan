@@ -20,7 +20,7 @@ import socket
 def read_url_list_from_file(filename):
     with open(filename) as f:
         filelist = f.readlines()
-        return [line.strip() for line in filelist]
+        return [curline.strip('\n') for curline in filelist]
 
 
 def strip_unwanted_characters_and_split(text):
@@ -80,6 +80,7 @@ for link in bad_words_removed:
     try:
         print('Processing {0}'.format(link))
         word_list = get_words(link)
+        next_request_time = time.time() + inter_request_interval_in_seconds
     except urllib.error.HTTPError as err:
         print('{0} on {1}'.format(type(err), link))
     except urllib.error.URLError as err:
