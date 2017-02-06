@@ -62,7 +62,7 @@ def read_list_from_file(filename):
 
 inter_request_interval_in_seconds = 5
 bad_words = ['ncbi', 'sciencedirect', 'eypsb.us']
-urls = read_url_list_from_file('urls2.txt')
+urls = read_url_list_from_file('urls3.txt')
 pdf_urls = [url for url in urls if url.endswith('.pdf')]
 bad_words_removed = [url for url in urls if not any(bad_word in url for bad_word in bad_words)]
 print(len(urls))
@@ -79,7 +79,7 @@ for link in bad_words_removed:
         time.sleep(next_request_time - time.time())
     try:
         print('Processing {0}'.format(link))
-        word_list = get_words(link)
+        words = get_words(link)
         next_request_time = time.time() + inter_request_interval_in_seconds
     except urllib.error.HTTPError as err:
         print('{0} on {1}'.format(type(err), link))
@@ -88,9 +88,9 @@ for link in bad_words_removed:
     except ValueError as err:
         print('{0} on {1}'.format(type(err), link))
 
-    final_word_list = [word for word in word_list if word not in english]
+    final_word_list = [word for word in words if word not in english]
     for word in final_word_list:
         all_words_combined.append(word)
 
-ranked_words = Counter(all_words_combined).most_common(50)
+ranked_words = Counter(all_words_combined).most_common
 print(ranked_words)
