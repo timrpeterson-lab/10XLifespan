@@ -24,7 +24,7 @@ def read_url_list_from_file(filename):
 
 
 def strip_unwanted_characters_and_split(text):
-    chars_to_remove = ['\n', '"', '.', '"', ':', '<', '>', '[', ';', ']', '!', '\\', '_', '=', '"', '/']
+    chars_to_remove = ['\n', '"', '.', '"', ':', '(', ')', '<', '>', '[', ';', ']', '!', '\\', '_', '=', '"', '/']
     text1 = ''.join([c if c not in chars_to_remove else ' ' for c in text])
     return [c for c in text1.split(' ') if c != '']
 
@@ -92,5 +92,5 @@ for link in bad_words_removed:
     for word in final_word_list:
         all_words_combined.append(word)
 
-ranked_words = Counter(all_words_combined).most_common
+ranked_words = Counter(all_words_combined).most_common(200)
 print(ranked_words)
