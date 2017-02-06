@@ -24,7 +24,7 @@ def read_url_list_from_file(filename):
 
 
 def strip_unwanted_characters_and_split(text):
-    chars_to_remove = ['\n', '"', '.', '"', ':', '(', ')', '<', '>', '[', ';', ']', '!', '\\', '_', '=', '"', '/']
+    chars_to_remove = ['\n', ',', '"', '.', '"', ':', '(', ')', '<', '>', '[', ';', ']', '!', '\\', '_', '=', '"', '/']
     text1 = ''.join([c if c not in chars_to_remove else ' ' for c in text])
     return [c for c in text1.split(' ') if c != '']
 
@@ -62,7 +62,7 @@ def read_list_from_file(filename):
 
 inter_request_interval_in_seconds = 5
 bad_words = ['ncbi', 'sciencedirect', 'eypsb.us']
-urls = read_url_list_from_file('urls3.txt')
+urls = read_url_list_from_file('stem_cell_metabolism_urls.txt')
 pdf_urls = [url for url in urls if url.endswith('.pdf')]
 bad_words_removed = [url for url in urls if not any(bad_word in url for bad_word in bad_words)]
 print(len(urls))
@@ -92,5 +92,11 @@ for link in bad_words_removed:
     for word in final_word_list:
         all_words_combined.append(word)
 
-ranked_words = Counter(all_words_combined).most_common(200)
-print(ranked_words)
+ranked_words = Counter(all_words_combined).most_common()
+dict(ranked_words)
+with open('output.csv', 'w') as outfile:
+    for value in ranked_words:
+        try:
+            outfile.write('{0},{1}\n'.format(value[0], value[1]))
+        except UnicodeEncodeError as err:
+            print('error')
