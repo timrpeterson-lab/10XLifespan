@@ -62,7 +62,7 @@ def read_list_from_file(filename):
 
 inter_request_interval_in_seconds = 5
 bad_words = ['ncbi', 'sciencedirect', 'eypsb.us']
-urls = read_url_list_from_file('urls2.txt')
+urls = read_url_list_from_file('urls3.txt')
 pdf_urls = [url for url in urls if url.endswith('.pdf')]
 bad_words_removed = [url for url in urls if not any(bad_word in url for bad_word in bad_words)]
 print(len(urls))
