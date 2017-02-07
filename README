@@ -1,0 +1,9 @@
+Running molecular_word_ranking.py
+
+In order to run this script, one will need to download Python 3. 
+
+Downloading Python 3 will also install pip, which one will need to install scrapy, seCrawler, and the other items listed at the top of the script (everything with from... and import...).
+
+Personally, I write and edit my scripts using PyCharm, which one can get from JetBrains with an educational license (using one's .edu email address) but there are certainly other ways to do the same thing.
+
+Once everything is setup, one should be able to get the list of urls from scrapy/seCrawler, which will create a file called urls.txt. From there, one should just have to change one line of code in order to run the script for the new list of urls.
